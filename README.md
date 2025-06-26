@@ -37,3 +37,7 @@ Allows branching and merging
 Works offline (locally)
 
 Popular platforms using Git: GitHub, GitLab, Bitbucket
+
+26 6 2025
+we have added gitignore file today
+
